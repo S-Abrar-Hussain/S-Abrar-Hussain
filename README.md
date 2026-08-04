@@ -1,3 +1,6 @@
+<h1 align="center">
+  $$\color{\#00F5FF}{\Huge \mathbf{SYED \ ABRAR \ HUSSAIN}}$$
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
