@@ -1,8 +1,4 @@
-<h1 align="center">⚡ Syed Abrar Hussain ⚡</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Engineering+Tomorrow;AI+%7C+Machine+Learning;Embedded+Systems;Robotics+%26+Automation;Welcome+to+My+GitHub!" />
-</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Mechatronics+%26+Robotics+Engineer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
