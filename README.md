@@ -1,6 +1,6 @@
-<h1 align="center">
-  $$\color{\#00F5FF}{\Huge \mathbf{SYED \ ABRAR \ HUSSAIN}}$$
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35&height=220&section=header&text=SYED%20ABRAR%20HUSSAIN&fontSize=50&fontColor=00F0FF&animation=twinkle&fontAlignY=35" width="100%" alt="Header Banner"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
