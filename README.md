@@ -245,40 +245,6 @@ Built as part of coursework at UET Lahore, sharpening structural analysis and pa
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=S-Abrar-Hussain&show_icons=true&theme=cyan&bg_color=0d1117&title_color=00F0FF&icon_color=00B4D8&text_color=c9d1d9&border_color=0077B6" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Abrar-Hussain&theme=cyan&background=0D1117&ring=00F0FF&fire=00B4D8&currStreakLabel=00F0FF&border=0077B6" alt="GitHub Streak" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abrar-Hussain&layout=compact&theme=cyan&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&border_color=0077B6" alt="Top Languages" width="60%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=S-Abrar-Hussain&theme=ocean&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abrar-Hussain&theme=react-dark&bg_color=0d1117&color=00F0FF&line=00B4D8&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
